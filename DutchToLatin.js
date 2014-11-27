@@ -73,6 +73,6 @@ $(function() {
     document.getElementById("goButton").onclick = checkAnswer;
     document.getElementById("enoughButton").onclick = showResult;
 
-
+    document.getElementById("exitGameButton").onclick = navigator.app.exitApp();
 
 });
