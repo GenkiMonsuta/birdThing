@@ -22,6 +22,7 @@
 
 
     <gap:plugin name="org.apache.cordova.device" />
+    <plugin name="App" value="com.phonegap.App"/>
 
 
 </widget>
