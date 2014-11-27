@@ -1,0 +1,100 @@
+<!doctype html>
+
+<html>
+
+<head>
+    <title>birdRecog</title>
+    <meta charset="utf-8" />
+
+    <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css" />
+
+    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+    <script style="text/javascript" src="selector.js"></script>
+
+
+</head>
+
+<body>
+
+<div class="container">
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div id="brand">
+            <h1>birdRecog</h1>
+        </div>
+    </nav>
+
+
+    <button type="button" class="btn" data-toggle="modal" data-target="#myModal" id="clueButton">
+        <div id="brand">Pick your clue</div>
+    </button>
+
+   <h3>
+       <p id="clueText"> </p>
+   </h3>
+
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content" id="modalContent">
+                <div class="modal-body" id="modalBody">
+                    <p id="latinName" data-dismiss="modal">Latin name</p><br>
+                    <p id="dutchName" data-dismiss="modal">Dutch name</p><br>
+                    <p id="birdPic" data-dismiss="modal">Picture</p><br>
+                </div>
+                <div class="modal-footer" id="modalFooter">
+                    <button type="button" class="btn" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="catButton">
+        <button type="button" class="btn" data-toggle="modal" data-target="#myCatModal">
+            <div id="brand">Pick a category</div>
+        </button>
+    </div>
+
+    <div class="modal fade" id="myCatModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content" id="modalContent">
+                <div class="modal-body" id="modalBody">
+                    <p id="catLatinName" data-dismiss="modal">Latin name</p><br>
+                    <p id="catDutchName" data-dismiss="modal">Dutch name</p>
+                </div>
+                <div class="modal-footer" id="modalFooter">
+                    <button type="button" class="btn" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="startButtons">
+        <button type="button" class="btn" id="startLatinToDutch" onclick="window.location.href='LatinToDutch.html'">
+            <div id="goGoTime">Now lets go!!</div>
+        </button>
+        <button type="button" class="btn" id="startDutchToLatin" onclick="window.location.href='DutchToLatin.html'">
+            <div id="goGoTime">Now lets go!!</div>
+        </button>
+        <button type="button" class="btn" id="startPictureToLatin" onclick="window.location.href='PictureToLatin.html'">
+            <div id="goGoTime">Now lets go!!</div>
+        </button>
+        <button type="button" class="btn" id="startPictureToDutch" onclick="window.location.href='PictureToDutch.html'">
+            <div id="goGoTime">Now lets go!!</div>
+        </button>
+    </div>
+
+</div>
+
+</body>
+
+
+
+
+
+
+</html>

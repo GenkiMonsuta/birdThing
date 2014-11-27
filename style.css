@@ -1,0 +1,144 @@
+body{
+    background-color: dimgrey;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
+}
+
+#result{
+    color: powderblue;
+    font-family: 'Francois One', sans-serif;
+}
+
+#explain{
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
+}
+
+#lincol{
+    color: powderblue;
+    font-family: 'Francois One', sans-serif;
+}
+
+#brand{
+    color: powderblue;
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
+}
+
+#clueButton{
+    border-color: powderblue;
+    }
+
+.btn{
+    background-color: #373737;
+    border-color: powderblue;
+    color: powderblue;
+}
+
+#modalContent{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#modalBody{
+    background-color: #373737;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family:'Francois One', sans-serif;
+    color: powderblue;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-bottom: 5px;
+    font-size: 20px;
+}
+
+#latinName{
+    width: 100%;
+}
+
+#clueText{
+    font-family: 'Francois One', sans-serif;
+    color: powderblue;
+}
+
+#modalFooter{
+    text-align: center;
+    background-color: #696969;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.selectName{
+    color: #373737;
+}
+
+#catButton{
+    display: none;
+}
+
+#goGoTime{
+    color: powderblue;
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
+    font-size: 25px;
+}
+
+#startLatinToDutch{
+    display: none;
+}
+#startDutchToLatin{
+    display: none;
+}
+#startPictureToLatin{
+    display: none;
+}
+#startPictureToDutch{
+    display: none;
+}
+
+
+#enoughButton{
+    background-color: #696969;
+    margin-top: 6px;
+    font-family: 'Francois One', sans-serif;
+}
+
+#answerBox{
+    text-align: center;
+
+}
+
+#answer{
+    text-align: left;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+
+#backHomeButton{
+    display: none;
+}
+
+#exitGameButton{
+    display: none;
+}
+
+#pictureClue{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
