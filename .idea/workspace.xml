@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c112798e-9d09-4ea6-86ec-3206169184d2" name="Default" comment="" />
+    <list default="true" id="c112798e-9d09-4ea6-86ec-3206169184d2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Naamloos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PictureToDutch.html" afterPath="$PROJECT_DIR$/PictureToDutch.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PictureToLatin.html" afterPath="$PROJECT_DIR$/PictureToLatin.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="birdRecon.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +36,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.0" vertical-offset="1902" max-vertical-offset="2533">
+            <state line="140" column="14" selection-start="2252" selection-end="2252" vertical-scroll-proportion="0.0" vertical-offset="1944" max-vertical-offset="2533">
               <folding />
             </state>
           </provider>
@@ -35,7 +45,7 @@
       <file leaf-file-name="selector.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/selector.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="37" selection-start="496" selection-end="516" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="1819">
+            <state line="14" column="37" selection-start="496" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1819">
               <folding />
             </state>
           </provider>
@@ -44,19 +54,16 @@
       <file leaf-file-name="DutchToLatin.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DutchToLatin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1343">
-              <folding>
-                <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#script#4;n#head#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1343">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="61" selection-start="542" selection-end="542" vertical-scroll-proportion="0.20071048" vertical-offset="125" max-vertical-offset="714">
+            <state line="24" column="13" selection-start="775" selection-end="775" vertical-scroll-proportion="-10.769231" vertical-offset="128" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -65,10 +72,8 @@
       <file leaf-file-name="LatinToDutch.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LatinToDutch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="39" selection-start="531" selection-end="531" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1360">
-              <folding>
-                <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="13" column="39" selection-start="531" selection-end="531" vertical-scroll-proportion="-0.0" vertical-offset="221" max-vertical-offset="1360">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,11 +81,8 @@
       <file leaf-file-name="PictureToDutch.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1326">
-              <folding>
-                <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#script#4;n#head#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="35" column="30" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-8.5" vertical-offset="374" max-vertical-offset="1326">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,11 +90,17 @@
       <file leaf-file-name="PictureToLatin.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PictureToLatin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1326">
-              <folding>
-                <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#script#4;n#head#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="35" column="30" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-14.384615" vertical-offset="221" max-vertical-offset="1326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.60382515" vertical-offset="0" max-vertical-offset="578">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,6 +111,10 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -115,29 +127,29 @@
         <option value="$PROJECT_DIR$/selector.js" />
         <option value="$PROJECT_DIR$/birdlistDutchToLatin.js" />
         <option value="$PROJECT_DIR$/DutchToLatin.js" />
-        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/PictureToLatin.js" />
         <option value="$PROJECT_DIR$/birdlistPictureToLatin.js" />
         <option value="$PROJECT_DIR$/PictureToDutch.js" />
         <option value="$PROJECT_DIR$/birdlistPictureToDutch.js" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/selector.html" />
         <option value="$PROJECT_DIR$/DutchToLatin.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/LatinToDutch.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/PictureToDutch.html" />
         <option value="$PROJECT_DIR$/PictureToLatin.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="y" value="-916" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -163,7 +175,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -200,21 +211,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="birdRecog" />
+              <option name="myItemId" value="birdThing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="152" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="152" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="826" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="144" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="151" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="830" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kirste\Documents\GitHub\birdThing" />
       <recent name="C:\Users\Kirste\PhpstormProjects\birdRecog" />
       <recent name="C:\Users\Kirste\PhpstormProjects\birdRecon" />
     </key>
@@ -236,6 +270,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c112798e-9d09-4ea6-86ec-3206169184d2" name="Default" comment="" />
@@ -245,28 +296,49 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-916" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2613293" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2688822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35772356" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35772356" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2688822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-    </layout>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -280,11 +352,110 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.0" vertical-offset="1902" max-vertical-offset="2533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selector.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="496" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DutchToLatin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="9" selection-start="674" selection-end="674" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LatinToDutch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="39" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PictureToLatin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.0" vertical-offset="1902" max-vertical-offset="2533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/selector.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="37" selection-start="496" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DutchToLatin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1343">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="61" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LatinToDutch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="39" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PictureToLatin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="142" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2533">
@@ -316,9 +487,7 @@
     <entry file="file://$PROJECT_DIR$/LatinToDutch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="50" selection-start="1273" selection-end="1273" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1122">
-          <folding>
-            <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -403,69 +572,58 @@
         <state line="17" column="2" selection-start="403" selection-end="403" vertical-scroll-proportion="0.49066213" vertical-offset="0" max-vertical-offset="589" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="52" selection-start="351" selection-end="351" vertical-scroll-proportion="0.2886248" vertical-offset="0" max-vertical-offset="589">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="0" selection-start="2275" selection-end="2275" vertical-scroll-proportion="0.0" vertical-offset="1902" max-vertical-offset="2533">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/selector.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="37" selection-start="496" selection-end="516" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="1819">
+        <state line="14" column="37" selection-start="496" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1819">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DutchToLatin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1343">
-          <folding>
-            <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#script#4;n#head#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1343">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LatinToDutch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="39" selection-start="531" selection-end="531" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1360">
-          <folding>
-            <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1326">
-          <folding>
-            <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#script#4;n#head#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PictureToLatin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="1326">
-          <folding>
-            <element signature="n#style#0;n#script#3;n#head#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#script#4;n#head#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="13" column="39" selection-start="531" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1360">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="61" selection-start="542" selection-end="542" vertical-scroll-proportion="0.20071048" vertical-offset="125" max-vertical-offset="714">
+        <state line="24" column="13" selection-start="775" selection-end="775" vertical-scroll-proportion="-10.769231" vertical-offset="128" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="14" selection-start="2252" selection-end="2252" vertical-scroll-proportion="0.0" vertical-offset="1944" max-vertical-offset="2533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="30" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-8.5" vertical-offset="374" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PictureToLatin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="30" selection-start="1089" selection-end="1089" vertical-scroll-proportion="-14.384615" vertical-offset="221" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.60382515" vertical-offset="0" max-vertical-offset="578">
           <folding />
         </state>
       </provider>

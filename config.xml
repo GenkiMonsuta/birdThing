@@ -20,6 +20,7 @@
         Your Name
     </author>
 
+    <icon src="Naamloos.png" platform="ios" width="57" height="57" density="mdpi" />
 
     <gap:plugin name="org.apache.cordova.device" />
     <plugin name="App" value="com.phonegap.App"/>
