@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c112798e-9d09-4ea6-86ec-3206169184d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Naamloos.png" afterPath="$PROJECT_DIR$/Naamloos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="birdRecon.iws" />
@@ -74,7 +76,16 @@
       <file leaf-file-name="PictureToDutch.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="30" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.4018182" vertical-offset="374" max-vertical-offset="1326">
+            <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.096408315" vertical-offset="0" max-vertical-offset="1326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -121,8 +132,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/PictureToDutch.html" />
         <option value="$PROJECT_DIR$/PictureToLatin.html" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/config.xml" />
       </list>
     </option>
   </component>
@@ -285,7 +296,11 @@
       <created>1417444918020</created>
       <updated>1417444918020</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ggg">
+      <created>1417445880739</created>
+      <updated>1417445880739</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -587,13 +602,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="15" selection-start="416" selection-end="416" vertical-scroll-proportion="0.44894367" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PictureToLatin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="797" selection-end="797" vertical-scroll-proportion="-5.230769" vertical-offset="221" max-vertical-offset="1326">
@@ -615,9 +623,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="30" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.4018182" vertical-offset="374" max-vertical-offset="1326">
+        <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.096408315" vertical-offset="0" max-vertical-offset="1326">
           <folding />
         </state>
       </provider>

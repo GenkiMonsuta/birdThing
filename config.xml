@@ -10,17 +10,17 @@
 
     <preference name="phonegap-version" value="3.6.3" />
 
-    <name>birdUrr</name>
+    <name>birdThing</name>
 
     <description>
        Birding.
     </description>
 
     <author href="" email="">
-        Your Name
+        Genki Monsuta
     </author>
 
-    <icon src="Naamloos.png" platform="ios" width="57" height="57" density="mdpi" />
+    <icon src="Naamloos.png" platform="ios" width="57" height="57" density="mdpi"/>
 
     <gap:plugin name="org.apache.cordova.device" />
     <plugin name="App" value="com.phonegap.App"/>
