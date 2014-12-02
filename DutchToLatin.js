@@ -74,5 +74,10 @@ $(function() {
     document.getElementById("enoughButton").onclick = showResult;
 
 
+    $('#answer').keypress(function(e){
+        if (e.keyCode == '13'){
+            $('#goButton').click();
+        }
+    });
 
 });

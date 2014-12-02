@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c112798e-9d09-4ea6-86ec-3206169184d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Naamloos.png" afterPath="$PROJECT_DIR$/Naamloos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Thumbs.db" afterPath="$PROJECT_DIR$/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DutchToLatin.js" afterPath="$PROJECT_DIR$/DutchToLatin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PictureToDutch.html" afterPath="$PROJECT_DIR$/PictureToDutch.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="birdRecon.iws" />
@@ -46,10 +45,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DutchToLatin.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DutchToLatin.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DutchToLatin.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1343">
+            <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-0.5425331" vertical-offset="508" max-vertical-offset="1343">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DutchToLatin.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DutchToLatin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="78" column="24" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="1496">
               <folding />
             </state>
           </provider>
@@ -73,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PictureToDutch.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PictureToDutch.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.096408315" vertical-offset="0" max-vertical-offset="1326">
+            <state line="43" column="72" selection-start="1281" selection-end="1281" vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="1360">
               <folding />
             </state>
           </provider>
@@ -121,7 +129,6 @@
         <option value="$PROJECT_DIR$/indexprac.html" />
         <option value="$PROJECT_DIR$/selector.js" />
         <option value="$PROJECT_DIR$/birdlistDutchToLatin.js" />
-        <option value="$PROJECT_DIR$/DutchToLatin.js" />
         <option value="$PROJECT_DIR$/PictureToLatin.js" />
         <option value="$PROJECT_DIR$/birdlistPictureToLatin.js" />
         <option value="$PROJECT_DIR$/PictureToDutch.js" />
@@ -130,10 +137,11 @@
         <option value="$PROJECT_DIR$/DutchToLatin.html" />
         <option value="$PROJECT_DIR$/LatinToDutch.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/PictureToDutch.html" />
         <option value="$PROJECT_DIR$/PictureToLatin.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/PictureToDutch.html" />
+        <option value="$PROJECT_DIR$/DutchToLatin.js" />
       </list>
     </option>
   </component>
@@ -300,7 +308,11 @@
       <created>1417445880739</created>
       <updated>1417445880739</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ggg">
+      <created>1417448284452</created>
+      <updated>1417448284452</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -546,11 +558,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="589" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DutchToLatin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="0" selection-start="1235" selection-end="1235" vertical-scroll-proportion="0.27531084" vertical-offset="814" max-vertical-offset="1377" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/birdlist.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="61" column="34" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.25880283" vertical-offset="890" max-vertical-offset="1496" />
@@ -584,13 +591,6 @@
     <entry file="file://$PROJECT_DIR$/selector.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="37" selection-start="496" selection-end="516" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1819">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DutchToLatin.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="1343">
           <folding />
         </state>
       </provider>
@@ -632,7 +632,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PictureToDutch.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="0.096408315" vertical-offset="0" max-vertical-offset="1326">
+        <state line="43" column="72" selection-start="1281" selection-end="1281" vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DutchToLatin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="24" selection-start="1972" selection-end="1972" vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="1496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DutchToLatin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="37" selection-start="515" selection-end="515" vertical-scroll-proportion="-0.5425331" vertical-offset="508" max-vertical-offset="1343">
           <folding />
         </state>
       </provider>
